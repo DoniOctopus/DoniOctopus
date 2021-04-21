@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Pt.Enigma Cipta Humanika
 - 🌱 I’m currently learning Kotlin and Golang
 - 👯 I’m looking to collaborate on GitHub
